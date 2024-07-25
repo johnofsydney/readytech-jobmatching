@@ -1,0 +1,50 @@
+jobseeker_id,jobseeker_name,job_id,job_title,matching_skill_count,matching_skill_percent
+1,Alice Seeker,1,Ruby Developer,3,100
+1,Alice Seeker,3,Backend Developer,2,50
+1,Alice Seeker,4,Fullstack Developer,2,33
+1,Alice Seeker,7,Data Analyst,1,25
+1,Alice Seeker,8,Web Developer,1,25
+1,Alice Seeker,9,Python Developer,2,50
+2,Bob Applicant,2,Frontend Developer,3,75
+2,Bob Applicant,4,Fullstack Developer,2,33
+2,Bob Applicant,8,Web Developer,3,75
+2,Bob Applicant,10,JavaScript Developer,1,25
+3,Charlie Jobhunter,1,Ruby Developer,2,67
+3,Charlie Jobhunter,3,Backend Developer,3,75
+3,Charlie Jobhunter,4,Fullstack Developer,1,17
+3,Charlie Jobhunter,7,Data Analyst,1,25
+3,Charlie Jobhunter,9,Python Developer,2,50
+4,Danielle Searcher,5,Machine Learning Engineer,3,100
+4,Danielle Searcher,6,Cloud Architect,1,33
+4,Danielle Searcher,7,Data Analyst,3,75
+4,Danielle Searcher,9,Python Developer,1,25
+5,Eddie Aspirant,4,Fullstack Developer,1,17
+5,Eddie Aspirant,6,Cloud Architect,2,67
+6,Fiona Candidate,1,Ruby Developer,1,33
+6,Fiona Candidate,3,Backend Developer,1,25
+6,Fiona Candidate,4,Fullstack Developer,1,17
+6,Fiona Candidate,5,Machine Learning Engineer,2,67
+6,Fiona Candidate,6,Cloud Architect,1,33
+6,Fiona Candidate,7,Data Analyst,3,75
+6,Fiona Candidate,9,Python Developer,2,50
+7,George Prospect,1,Ruby Developer,1,33
+7,George Prospect,2,Frontend Developer,3,75
+7,George Prospect,4,Fullstack Developer,3,50
+7,George Prospect,8,Web Developer,4,100
+7,George Prospect,10,JavaScript Developer,1,25
+8,Hannah Hunter,1,Ruby Developer,1,33
+8,Hannah Hunter,3,Backend Developer,1,25
+8,Hannah Hunter,5,Machine Learning Engineer,1,33
+8,Hannah Hunter,6,Cloud Architect,1,33
+8,Hannah Hunter,7,Data Analyst,1,25
+8,Hannah Hunter,9,Python Developer,2,50
+9,Ian Jobhunter,2,Frontend Developer,2,50
+9,Ian Jobhunter,4,Fullstack Developer,1,17
+9,Ian Jobhunter,8,Web Developer,1,25
+9,Ian Jobhunter,9,Python Developer,1,25
+9,Ian Jobhunter,10,JavaScript Developer,3,75
+10,Jane Applicant,1,Ruby Developer,1,33
+10,Jane Applicant,4,Fullstack Developer,1,17
+10,Jane Applicant,8,Web Developer,1,25
+10,Jane Applicant,9,Python Developer,1,25
+10,Jane Applicant,10,JavaScript Developer,1,25
